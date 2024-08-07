@@ -1,0 +1,270 @@
+.login-as-admin .group-1 {
+    width: 377.7px;
+    height: 209px;
+    margin-left: 130px;
+  }
+  .login-as-admin .frame-1948754931 {
+    background: #171B36;
+    margin-right: 84px;
+    display: flex;
+    padding: 408px 0.3px 407px 0;
+    width: 720px;
+    height: 1024px;
+    box-sizing: border-box;
+  }
+  .login-as-admin .group-11 {
+    margin-right: 22.1px;
+    width: 59.6px;
+    height: 33px;
+  }
+  .login-as-admin .book-rent {
+    margin: 6.3px 0;
+    width: 124.1px;
+    height: 20.4px;
+  }
+  .login-as-admin .group-3 {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 205.9px;
+    box-sizing: border-box;
+  }
+  .login-as-admin .section-heading {
+    overflow-wrap: break-word;
+    font-family: var(--typographyh-5-font-family, 'Roboto');
+    font-weight: var(--typographyh-5-font-weight, 400);
+    font-size: var(--typographyh-5-font-size, 24px);
+    line-height: var(--typographyh-5-line-height, 1.334);
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .login-as-admin .box {
+    margin-bottom: 9px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .login-as-admin .divider {
+    background: rgba(0, 0, 0, 0.12);
+    width: 552px;
+    height: 0px;
+  }
+  .login-as-admin .divider-horizontal {
+    display: flex;
+    width: 552px;
+    height: 1px;
+    box-sizing: border-box;
+  }
+  .login-as-admin .custom-section-headings {
+    margin-bottom: 39px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .login-as-admin .value {
+    overflow-wrap: break-word;
+    font-family: var(--inputvalue-font-family, 'Roboto');
+    font-weight: var(--inputvalue-font-weight, 400);
+    font-size: var(--inputvalue-font-size, 16px);
+    letter-spacing: var(--inputvalue-letter-spacing, 0.2px);
+    line-height: var(--inputvalue-line-height, 1.5);
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .login-as-admin .value {
+    overflow-wrap: break-word;
+    font-family: var(--inputvalue-font-family, 'Roboto');
+    font-weight: var(--inputvalue-font-weight, 400);
+    font-size: var(--inputvalue-font-size, 16px);
+    letter-spacing: var(--inputvalue-letter-spacing, 0.2px);
+    line-height: var(--inputvalue-line-height, 1.5);
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .login-as-admin .input {
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    padding: 15px 0 15px 11px;
+    height: 100%;
+    box-sizing: border-box;
+  }
+  .login-as-admin .label {
+    overflow-wrap: break-word;
+    font-family: var(--inputlabel-font-family, 'Roboto');
+    font-weight: var(--inputlabel-font-weight, 400);
+    font-size: var(--inputlabel-font-size, 12px);
+    letter-spacing: var(--inputlabel-letter-spacing, 0.2px);
+    line-height: var(--inputlabel-line-height, 1);
+    color: rgba(0, 0, 0, 0.6);
+  }
+  .login-as-admin .label-container {
+    background: #FFFFFF;
+    position: absolute;
+    left: 12px;
+    top: 0px;
+    display: flex;
+    padding: 0 4.7px 0 4px;
+    box-sizing: border-box;
+  }
+  .login-as-admin .text-field {
+    position: relative;
+    margin-bottom: 16px;
+    width: 552px;
+    height: 56px;
+  }
+  .login-as-admin .value-1 {
+    overflow-wrap: break-word;
+    font-family: var(--inputvalue-font-family, 'Roboto');
+    font-weight: var(--inputvalue-font-weight, 400);
+    font-size: var(--inputvalue-font-size, 16px);
+    letter-spacing: var(--inputvalue-letter-spacing, 0.2px);
+    line-height: var(--inputvalue-line-height, 1.5);
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .login-as-admin .value-1 {
+    overflow-wrap: break-word;
+    font-family: var(--inputvalue-font-family, 'Roboto');
+    font-weight: var(--inputvalue-font-weight, 400);
+    font-size: var(--inputvalue-font-size, 16px);
+    letter-spacing: var(--inputvalue-letter-spacing, 0.2px);
+    line-height: var(--inputvalue-line-height, 1.5);
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .login-as-admin .input-1 {
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    padding: 15px 0 15px 11px;
+    height: 100%;
+    box-sizing: border-box;
+  }
+  .login-as-admin .label-1 {
+    overflow-wrap: break-word;
+    font-family: var(--inputlabel-font-family, 'Roboto');
+    font-weight: var(--inputlabel-font-weight, 400);
+    font-size: var(--inputlabel-font-size, 12px);
+    letter-spacing: var(--inputlabel-letter-spacing, 0.2px);
+    line-height: var(--inputlabel-line-height, 1);
+    color: rgba(0, 0, 0, 0.6);
+  }
+  .login-as-admin .label-container-1 {
+    background: #FFFFFF;
+    position: absolute;
+    left: 12px;
+    top: 0px;
+    display: flex;
+    padding: 0 4.9px 0 4px;
+    box-sizing: border-box;
+  }
+  .login-as-admin .text-field-1 {
+    position: relative;
+    margin-bottom: 25px;
+    width: 552px;
+    height: 56px;
+  }
+  .login-as-admin .vector-12 {
+    width: 18px;
+    height: 18px;
+  }
+  .login-as-admin .checkbox {
+    margin: 3px 12px 3px 0;
+    display: flex;
+    width: 42px;
+    height: 42px;
+    box-sizing: border-box;
+  }
+  .login-as-admin .label-2 {
+    overflow-wrap: break-word;
+    font-family: var(--typographybody-1-font-family, 'Roboto');
+    font-weight: var(--typographybody-1-font-weight, 400);
+    font-size: var(--typographybody-1-font-size, 16px);
+    letter-spacing: var(--typographybody-1-letter-spacing, 0.2px);
+    line-height: var(--typographybody-1-line-height, 1.5);
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .login-as-admin .form-label {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .login-as-admin .form-control-label-checkbox {
+    margin: 0 12px 25px 12px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .login-as-admin .button-1 {
+    overflow-wrap: break-word;
+    margin-left: 250px;
+    font-family: var(--buttonlarge-font-family, 'Roboto');
+    font-weight: var(--buttonlarge-font-weight, 500);
+    font-size: var(--buttonlarge-font-size, 15px);
+    letter-spacing: var(--buttonlarge-letter-spacing, 0.5px);
+    line-height: var(--buttonlarge-line-height, 1.733);
+    text-transform: var(--buttonlarge-text-transform, uppercase);
+    color: #FFFFFF;
+  }
+  .login-as-admin .button {
+    box-shadow: var(--elevation-2, 0px 1px 5px 0px rgba(0, 0, 0, 0.12)), var(--elevation-2, 0px 2px 2px 0px rgba(0, 0, 0, 0.14)), var(--elevation-2, 0px 3px 1px -2px rgba(0, 0, 0, 0.2));
+    border-radius: 4px;
+    background: var(--primary-1, #00ABFF);
+    display: flex;
+    padding: 8px 0.1px 8px 0;
+    width: 552px;
+    box-sizing: border-box;
+  }
+  .login-as-admin .custom-forms-email-password {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .login-as-admin .form {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .haven-not-an-account-sign-up {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    line-height: 1.333;
+    color: var(--primary-1, #00ABFF);
+  }
+  .login-as-admin .haven-not-an-account-sign-up {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .login-as-admin .frame-1948754932 {
+    margin: 291.5px 0 290.5px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .login-as-admin {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding-right: 84px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  

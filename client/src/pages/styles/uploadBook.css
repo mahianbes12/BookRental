@@ -1,0 +1,669 @@
+.owner-book-upload .vector {
+    width: 16px;
+    height: 12px;
+  }
+  .owner-book-upload .lucidemenu {
+    margin: 4.5px 19px 4.5px 0;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .group-1 {
+    margin-right: 14.1px;
+    width: 37.9px;
+    height: 21px;
+  }
+  .owner-book-upload .book-rent {
+    margin: 4px 0;
+    width: 79px;
+    height: 13px;
+  }
+  .owner-book-upload .group-2 {
+    display: flex;
+    flex-direction: row;
+    width: 131px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-3 {
+    margin: 0 1px 40.5px 1px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 170px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .line-1 {
+    background: rgba(248, 248, 248, 0.5);
+    margin-bottom: 32.5px;
+    width: 230px;
+    height: 0px;
+  }
+  .owner-book-upload .vector-9 {
+    width: 20px;
+    height: 18px;
+  }
+  .owner-book-upload .component-1 {
+    margin-right: 12px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .dashboard {
+    margin: 0.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .owner-book-upload .frame-5 {
+    border-radius: 5px;
+    margin: 0 17px 23px 17px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .vector-10 {
+    width: 16.5px;
+    height: 19.5px;
+  }
+  .owner-book-upload .component-11 {
+    margin-right: 13.8px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .dashboard-1 {
+    margin: 1.3px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+  }
+  .owner-book-upload .frame-8 {
+    border-radius: 5px;
+    background: #00ABFF;
+    margin-bottom: 21.8px;
+    display: flex;
+    flex-direction: row;
+    padding: 12.3px 0 12.3px 18.8px;
+    width: 230px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .group {
+    width: 20.4px;
+    height: 20.4px;
+  }
+  .owner-book-upload .component-12 {
+    margin-right: 11.7px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .dashboard-2 {
+    margin: 1.7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .owner-book-upload .frame-12 {
+    border-radius: 5px;
+    margin: 0 16.9px 33.6px 16.9px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .group-1 {
+    width: 20.4px;
+    height: 20.4px;
+  }
+  .owner-book-upload .component-13 {
+    margin-right: 11.7px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .dashboard-3 {
+    margin: 1.7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .owner-book-upload .frame-11 {
+    border-radius: 5px;
+    margin: 0 16.9px 33.6px 16.9px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .group-2 {
+    width: 20.4px;
+    height: 20.4px;
+  }
+  .owner-book-upload .component-14 {
+    margin-right: 11.7px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .dashboard-4 {
+    margin: 1.7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .owner-book-upload .frame-9 {
+    border-radius: 5px;
+    margin: 0 16.9px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-7 {
+    margin-bottom: 31.8px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .line-2 {
+    background: rgba(248, 248, 248, 0.5);
+    margin-bottom: 29.5px;
+    width: 230px;
+    height: 0px;
+  }
+  .owner-book-upload .component-15 {
+    margin-right: 10px;
+    width: 24px;
+    height: 24px;
+  }
+  .owner-book-upload .dashboard-5 {
+    margin: 3.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .owner-book-upload .frame-71 {
+    border-radius: 5px;
+    margin-bottom: 33px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .group-3 {
+    width: 18px;
+    height: 18px;
+  }
+  .owner-book-upload .component-16 {
+    margin-right: 13px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .dashboard-6 {
+    margin: 0.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .owner-book-upload .frame-6 {
+    border-radius: 5px;
+    margin: 0 3px 35px 3px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .group-4 {
+    width: 20px;
+    height: 20px;
+  }
+  .owner-book-upload .component-17 {
+    margin-right: 12px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .dashboard-7 {
+    margin: 1.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.75);
+  }
+  .owner-book-upload .frame-10 {
+    border-radius: 5px;
+    margin-left: 2px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-81 {
+    margin: 0 63.6px 32px 0;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .line-3 {
+    background: rgba(248, 248, 248, 0.5);
+    margin-bottom: 327.5px;
+    width: 230px;
+    height: 0px;
+  }
+  .owner-book-upload .logout-1 {
+    width: 20px;
+    height: 20px;
+  }
+  .owner-book-upload .frame-39997 {
+    margin: 2px 10px 2px 0;
+    display: flex;
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .logout-2 {
+    overflow-wrap: break-word;
+    font-family: var(--h-4-font-family, 'Inter');
+    font-weight: var(--h-4-font-weight, 500);
+    font-size: var(--h-4-font-size, 18px);
+    line-height: var(--h-4-line-height, 1.333);
+    color: #FFFFFF;
+  }
+  .owner-book-upload .logout {
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.2);
+    display: flex;
+    flex-direction: row;
+    padding: 12px 0;
+    width: 230px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-2 {
+    border-radius: 15px;
+    background: #171B36;
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 17.5px 25px 40px 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .owner-book-upload-1 {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.091;
+    color: #000000;
+  }
+  .owner-book-upload-1 {
+    font-family: 'Inter';
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 1.333;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .owner-book-upload .frame-39998 {
+    border-radius: 15px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 3px 20px 0;
+    padding: 21px 49px 17px 49px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .upload-new-book-1 {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 1.091;
+    text-transform: capitalize;
+    color: var(--gray-02, #525256);
+  }
+  .owner-book-upload .filter {
+    border-radius: 4px;
+    margin: 0 0.9px 30px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .label {
+    margin-bottom: 3px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--inputlabel-font-family, 'Roboto');
+    font-weight: var(--inputlabel-font-weight, 400);
+    font-size: var(--inputlabel-font-size, 12px);
+    letter-spacing: var(--inputlabel-letter-spacing, 0.2px);
+    line-height: var(--inputlabel-line-height, 1);
+    color: #2196F3;
+  }
+  .owner-book-upload .value {
+    overflow-wrap: break-word;
+    font-family: var(--inputvalue-font-family, 'Roboto');
+    font-weight: var(--inputvalue-font-weight, 400);
+    font-size: var(--inputvalue-font-size, 16px);
+    letter-spacing: var(--inputvalue-letter-spacing, 0.2px);
+    line-height: var(--inputvalue-line-height, 1.5);
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .owner-book-upload .vector-26 {
+    width: 10px;
+    height: 5px;
+  }
+  .owner-book-upload .arrow-drop-up-filled {
+    position: absolute;
+    top: 1px;
+    right: 0px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .content-1 {
+    position: relative;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .input-2 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .active {
+    background: #2196F3;
+    position: absolute;
+    left: 50%;
+    bottom: -2px;
+    translate: -50% 0;
+    width: 320px;
+    height: 0px;
+  }
+  .owner-book-upload .content {
+    border-radius: 4px 4px 0 0;
+    background: rgba(0, 0, 0, 0.06);
+    position: relative;
+    padding: 9px 19px 8px 12px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .value-1 {
+    overflow-wrap: break-word;
+    font-family: var(--menuitem-default-font-family, 'Roboto');
+    font-weight: var(--menuitem-default-font-weight, 400);
+    font-size: var(--menuitem-default-font-size, 16px);
+    letter-spacing: var(--menuitem-default-letter-spacing, 0.2px);
+    line-height: var(--menuitem-default-line-height, 1.5);
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .owner-book-upload .menu-item {
+    margin: 0 16px 12px 16px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .value-2 {
+    overflow-wrap: break-word;
+    font-family: var(--menuitem-default-font-family, 'Roboto');
+    font-weight: var(--menuitem-default-font-weight, 400);
+    font-size: var(--menuitem-default-font-size, 16px);
+    letter-spacing: var(--menuitem-default-letter-spacing, 0.2px);
+    line-height: var(--menuitem-default-line-height, 1.5);
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .owner-book-upload .menu-item-1 {
+    margin: 0 16px 15px 16px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .divider {
+    background: rgba(0, 0, 0, 0.12);
+    width: 320px;
+    height: 0px;
+  }
+  .owner-book-upload .divider-horizontal {
+    margin-bottom: 13px;
+    display: flex;
+    width: 320px;
+    height: 17px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .value-3 {
+    overflow-wrap: break-word;
+    font-family: var(--menuitem-default-font-family, 'Roboto');
+    font-weight: var(--menuitem-default-font-weight, 400);
+    font-size: var(--menuitem-default-font-size, 16px);
+    letter-spacing: var(--menuitem-default-letter-spacing, 0.2px);
+    line-height: var(--menuitem-default-line-height, 1.5);
+    color: var(--primary-1, #00ABFF);
+  }
+  .owner-book-upload .menu-item-2 {
+    margin: 0 16px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .paper {
+    box-shadow: var(--elevation-8, 0px 3px 14px 2px rgba(0, 0, 0, 0.12)), var(--elevation-8, 0px 8px 10px 1px rgba(0, 0, 0, 0.14)), var(--elevation-8, 0px 5px 5px -3px rgba(0, 0, 0, 0.2));
+    border-radius: 4px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 14px 0;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .menu {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-40166 {
+    position: relative;
+    margin-bottom: 25px;
+    height: 198px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .book-quantity {
+    overflow-wrap: break-word;
+    font-family: var(--paragraph-body-font-family, 'Inter');
+    font-weight: var(--paragraph-body-font-weight, 400);
+    font-size: var(--paragraph-body-font-size, 16px);
+    line-height: var(--paragraph-body-line-height, 1.5);
+    color: var(--gray-021, #656575);
+  }
+  .owner-book-upload .frame-21 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .vector-7 {
+    width: 10px;
+    height: 5px;
+  }
+  .owner-book-upload .chevron-down {
+    margin: 10px 0 9px 0;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .input {
+    border-radius: 8px;
+    border: 1px solid #DEDEDE;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 11px 21px 11px 14px;
+    width: 316px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .rant-price-for-2-weeks {
+    overflow-wrap: break-word;
+    font-family: var(--paragraph-body-font-family, 'Inter');
+    font-weight: var(--paragraph-body-font-weight, 400);
+    font-size: var(--paragraph-body-font-size, 16px);
+    line-height: var(--paragraph-body-line-height, 1.5);
+    color: #D2D2D2;
+  }
+  .owner-book-upload .input-1 {
+    border-radius: 8px;
+    border: 1px solid #DEDEDE;
+    padding: 11px 9px;
+    width: 320px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-1948754939 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 686px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-1948754927 {
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1040px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .vector-8 {
+    width: 16px;
+    height: 16px;
+  }
+  .owner-book-upload .material-symbolsupload {
+    margin: 4px 8px 4px 0;
+    display: flex;
+    width: 16px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .upload-book-cover {
+    overflow-wrap: break-word;
+    font-family: var(--paragraph-button-text-font-family, 'Inter');
+    font-weight: var(--paragraph-button-text-font-weight, 500);
+    font-size: var(--paragraph-button-text-font-size, 16px);
+    line-height: var(--paragraph-button-text-line-height, 1.5);
+    text-transform: var(--paragraph-button-text-text-transform, capitalize);
+    color: var(--primary-1, #00ABFF);
+  }
+  .owner-book-upload .frame-40058 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-1948754928 {
+    margin-right: 0.1px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-1948754934 {
+    margin-bottom: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1040px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .submit {
+    overflow-wrap: break-word;
+    margin-left: 135px;
+    font-family: var(--paragraph-button-text-font-family, 'Inter');
+    font-weight: var(--paragraph-button-text-font-weight, 500);
+    font-size: var(--paragraph-button-text-font-size, 16px);
+    line-height: var(--paragraph-button-text-line-height, 1.5);
+    text-transform: var(--paragraph-button-text-text-transform, capitalize);
+    color: #FFFFFF;
+  }
+  .owner-book-upload .filter-1 {
+    border-radius: 4px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-1948754925 {
+    border-radius: 20px;
+    background: #00ABFF;
+    position: relative;
+    display: flex;
+    padding: 25px 0.1px 25px 0;
+    width: 321px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .upload-new-book {
+    box-shadow: var(--drop-shadow, 0px 8px 24px 0px rgba(69, 69, 80, 0.1));
+    border-radius: 8px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0 316px 0;
+    width: 1146px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-1948754919 {
+    display: flex;
+    width: 1146px;
+    box-sizing: border-box;
+  }
+  .owner-book-upload .frame-1948754920 {
+    margin-bottom: 6px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .owner-book-upload {
+    background: #F0F2FF;
+    display: flex;
+    flex-direction: row;
+    padding: 15px 18px 22px 10px;
+    width: 1473px;
+    box-sizing: border-box;
+  }
+  
