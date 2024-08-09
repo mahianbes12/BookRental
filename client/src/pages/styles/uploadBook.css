@@ -1,6 +1,25 @@
+.owner.book.upload {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+
 .owner-book-upload .vector {
     width: 16px;
     height: 12px;
+  }
+  .owner-book-upload .frame-2 {
+    border-radius: 15px;
+    background: #171B36;
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 17.5px 25px 40px 24px;
+    box-sizing: border-box;
   }
   .owner-book-upload .lucidemenu {
     margin: 4.5px 19px 4.5px 0;

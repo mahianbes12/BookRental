@@ -1,3 +1,9 @@
+.login-as-admin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
 .login-as-admin .group-1 {
     width: 377.7px;
     height: 209px;

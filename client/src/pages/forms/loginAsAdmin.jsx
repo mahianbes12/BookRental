@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import '../styles/loginAsAdmin.css';
 import Grop16 from '../../assets/vectors/Group16_x2.svg';
 import Group110 from '../../assets/vectors/Group110_x2.svg';

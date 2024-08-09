@@ -1,3 +1,71 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* .frame-1948754931,
+.frame-1948754932 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+/* 
+.form {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.group-3,
+.custom-section-headings,
+.custom-forms-email-password,
+.form-control-label-checkbox,
+.button {
+  margin-bottom: 20px;
+}
+
+.input, .input-1 {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+.label-container, .label-container-1 {
+  margin-top: 8px;
+}
+
+.divider-horizontal .divider {
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.haven-not-an-account-sign-up {
+  text-align: center;
+  margin-top: 20px;
+} */
+
 .login .group-1 {
     width: 377.7px;
     height: 209px;

@@ -1,7 +1,14 @@
+.register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 80px;
+}
 .register .group-1 {
     width: 377.7px;
     height: 209px;
-    margin-left: 150px;
+    margin-left: 130px;
   }
   .register .frame-1948754931 {
     background: #171B36;

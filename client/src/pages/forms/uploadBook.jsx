@@ -1,3 +1,5 @@
+/* eslint-disable react/react-in-jsx-scope */
+/* eslint-disable no-unused-vars */
 import '../styles/uploadBook.css';
 import vector72 from '../../assets/vectors/Vector72_x2.svg';
 import Group1 from '../../assets/vectors/Graph1_x2.svg';
