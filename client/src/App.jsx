@@ -16,13 +16,13 @@ import AdminDashboard  from './pages/Admin/AdminDashboard';
 import AdminBooks from './pages/Admin/AdminBooks';
 import AdminOwners from './pages/Admin/AdminOwner';
 import OwnerDashboard from './pages/Owner/ownerDashboard';
-import OnDesktop1 from './pages/home/onDesktop1';
-import OnDesktop2 from './pages/home/onDesktop2';
-import OnMobile1 from './pages/home/onMobile1';
-import OnMobile2 from './pages/home/onMobile2';
+// import OnDesktop1 from './pages/home/onDesktop1';
+// import OnDesktop2 from './pages/home/onDesktop2';
+// import OnMobile1 from './pages/home/onMobile1';
+// import OnMobile2 from './pages/home/onMobile2';
 
 const router = createBrowserRouter([
-  { path: '/', element: <OnDesktop2 /> },
+  { path: '/', element: <LoginForm /> },
   { path: '/login', element: <LoginForm /> },
   { path: '/signup', element: <SignupForm />},
   { path: '/loginAsAdmin', element: <LoginAsAdmin />},
@@ -32,10 +32,10 @@ const router = createBrowserRouter([
   { path: '/adminBooks', element: <AdminBooks />},
   { path: '/adminOwner', element: <AdminOwners />},
   { path: '/ownerDashboard', element: <OwnerDashboard />},
-  { path: '/onDesktop1', element: <OnDesktop1 />},
-  { path: '/onDesktop2', element: <OnDesktop2 />},
-  { path: '/onMobile1', element: <OnMobile1 />},
-  { path: '/onMobile2', element: <OnMobile2 />},
+  // { path: '/onDesktop1', element: <OnDesktop1 />},
+  // { path: '/onDesktop2', element: <OnDesktop2 />},
+  // { path: '/onMobile1', element: <OnMobile1 />},
+  // { path: '/onMobile2', element: <OnMobile2 />},
 ]);
 
 function App() {
